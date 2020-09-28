@@ -40,3 +40,13 @@ main .carousel-inner img {
 #carousel .overlay .row {
     height: 100%;
 }
+
+#place-time {
+    background-color: #343a40;
+    color: white;
+}
+
+#place-time img {
+    max-width: 100%;
+}
+
